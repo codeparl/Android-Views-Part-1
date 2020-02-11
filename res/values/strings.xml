@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Views Part1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ViewDetails">View Details</string>
+    <string name="spinnerPrompt">Select Language</string>
+    <string-array name="weblanguages">
+        <item >HTML5</item>
+        <item >CSS3</item>
+        <item >JavaScript</item>
+        <item >PHP</item>
+    </string-array>
+
+</resources>
